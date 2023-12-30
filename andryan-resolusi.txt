@@ -2,3 +2,6 @@ Andryan Resolusi
 1. Menguasai Bahasa Pemrograman Javascript
 2. Menyelesaikan Website Gallnime
 3. Membuat Website Portofolio
+4. Mempelajari Back-end
+5. Menguasai Front-end
+6. Full-Stack Software Engginer
